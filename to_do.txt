@@ -6,14 +6,14 @@ Problem Statement :-
 success criteria :- 
 
 
-1.) To decrease the hustle of customer by visting Dieticion
-2.) No need to keep dieticion for problem solving our API will get it done
+1) To decrease the hustle of customer by visting Dieticion
+2) No need to keep dieticion for problem solving our API will get it done
     for you this will save salary cost and maintance cost of the place 
 
 
 Data Optimization :- 
 
-1.) minimized time, hustle, money by providing diet at one click
+1) minimized time, hustle, money by providing diet at one click
 
 
 
